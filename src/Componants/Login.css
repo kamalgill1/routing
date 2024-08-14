@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+ button{
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: rgb(201, 68, 23);;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 8vh;
+    /* margin-left: 46vw; */
+ }
+
+ input{
+    width: 79%;
+    padding: 8px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+ }
+ .container {
+    max-width: 400px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-top: 11vh;
+    height: 41vh;
+}
+.second-Pass{
+    margin-top: 3vh;
+}
